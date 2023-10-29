@@ -1,0 +1,377 @@
+[
+    {
+        "name": "Instant Pot Chicken Paprikash",
+        "description": "You have the choice to prepare this chicken paprikash either using an Instant Pot or a stovetop. Regardless of your chosen method, it will be ready in under half an hour! You're welcome to experiment with paprika varieties; I, for instance, incorporated three distinct types: smoked paprika, sweet paprika, and the standard version of paprika.",
+        "imageUrl": "/recipes/paprika-chicken-recipe.jpg",
+        "ingredients": [
+            "4 boneless, skinless chicken breasts",
+            "2 tablespoons olive oil",
+            "1 onion, chopped",
+            "2 cloves garlic, minced",
+            "2 tablespoons paprika",
+            "1 cup chicken broth",
+            "1 cup sour cream",
+            "Salt and pepper to taste"
+        ]
+    },
+    {
+        "name": "Tuscan Black Pepper Beef",
+        "description": "According to the tale, laborers crafting terracotta tiles in Impruneta, Tuscany, would put this hearty stew into clay pots and let it simmer in the kilns, where it would be perfectly cooked by the following morning. Due to the variable quality of the meat, they generously seasoned it with pepper. The quantity of pepper is your personal choice—I, for example, used quite a generous amount, yet it remained pleasantly balanced and not overwhelming.",
+        "imageUrl": "/recipes/tbpb.jpg",
+        "ingredients": [
+            "6 beef short ribs (8 to 10 oz. each)",
+            "1 tablespoon kosher salt",
+            "8 cloves garlic, peeled and crushed",
+            "1 tablespoon freshly ground black pepper",
+            "3 sage leaves",
+            "3 small sprigs fresh rosemary",
+            "2 bay leaves",
+            "2 cups red wine, preferably Chianti"
+            ,"salt to taste, to adjust sauce"
+        ]
+    },
+    {
+        "name": "Bibimbap",
+        "description": "This recipe for bibimbap offers a delightful and well-loved Korean dish. Bibimbap, which translates to 'mixed rice,' consists of a flavorful rice bowl adorned with an assortment of vegetables, beef, a whole egg, and gochujang, a red chili pepper paste. Historically, bibimbap was savored on the night preceding the Lunar New Year, as a way to enjoy any remaining ingredients before welcoming the new year",
+        "imageUrl": "/recipes/bibimbap.webp",
+        "ingredients": [
+         "1 English cucumber, cut into matchsticks",
+
+"¼ cup gochujang (Korean hot pepper paste) (Optional)",
+
+"1 bunch fresh spinach, cut into thin strips",
+
+"1 tablespoon soy sauce",
+
+"2 teaspoons olive oil, divided",
+
+"2 carrots, cut into matchsticks ",
+
+"1 clove garlic, minced",
+
+"1 pinch red pepper flakes",
+
+"1 pound thinly-sliced beef top round steak",
+
+"4 large eggs",
+
+"4 cups cooked white rice",
+
+"4 teaspoons toasted sesame oil, divided",
+
+"1 teaspoon sesame seeds",
+
+"2 teaspoons gochujang (Korean hot pepper paste), divided (Optional)"
+        
+        ]
+    },{
+        "name": "Baked Ziti",
+        "description": "This baked ziti is consistently well-received! A colleague of mine introduced this dish one day, and it received high praise from everyone. Since then, it has become the top choice among my dinner guests. I have also prepared it without meat, and it was equally enjoyed.",
+        "imageUrl": "/recipes/ziti.jpg",
+        "ingredients": [
+            "1 pound dry ziti pasta",
+
+            "1 onion, chopped",
+            
+            "1 pound lean ground beef",
+            
+            "2 (26 ounce) jars spaghetti sauce",
+            
+            "6 ounces provolone cheese, sliced",
+            
+            "1 ½ cups sour cream",
+            
+            "6 ounces mozzarella cheese, shredded",
+            
+            "2 tablespoons grated Parmesan cheese"
+        ]
+    }
+    , 
+    {
+        "name" : "John Wayne Casserole",
+        "description": "Everyone at your table is sure to enjoy the hearty and filling John Wayne casserole. Despite its name, the John Wayne Casserole was not created by the actor but rather by a cookbook published as a fundraiser.",
+        "imageUrl": "/recipes/jwcass.jpg",
+        "ingredients": [
+            "1 (16.3 ounce) can refrigerated biscuits",
+
+          "2 pounds ground beef",
+            
+          "1 (1 ounce) package taco seasoning",
+            
+           " ¾ cup water",
+            
+            "1 medium onion, halved and sliced",
+            
+           " 1 medium red bell pepper, halved and sliced (1 1/2 cups)",
+            
+            "½ cup sour cream",
+            
+            "½ cup mayonnaise",
+            
+            "8 ounces shredded Cheddar cheese, divided",
+            
+            "2 medium tomatoes, sliced",
+            
+           " 1 (4 ounce) jar sliced jalapeno peppers, drained (Optional)"
+           
+        ]
+    },
+    {
+        "name" : "Elote Pizza",
+        "description": "The characteristics of Mexican street corn, including corn, chili-lime spice, jalapenos, cheese, and crema, are combined in this grilled elote pizza, which is enhanced by being baked on a grill.",
+        "imageUrl": "/recipes/elota-pizza.webp",
+        "ingredients": [
+          "  1 pound prepared pizza dough",
+
+"2 teaspoons olive oil, or as needed",
+
+"2 tablespoons sour cream, plus more for drizzling",
+
+"2 tablespoons mayonnaise",
+
+"2 teaspoons chili lime seasoning, such as Tajin® Clasico, divided",
+
+"1/4 cup crumbled cotija cheese",
+
+"1/4 cup shredded quesadilla cheese",
+
+"1/2 cup corn kernels",
+
+"1/4 red onion, very thinly sliced",
+
+"2 tablespoons chopped cilantro",
+
+"1 jalapeno, very thinly sliced, or more to taste",
+
+"2 teaspoons melted butter"
+        ]
+    }
+    ,
+    {
+        "name" : "Skillet Meatballs",
+        "description": "These meatballs may be used in spaghetti, soup, sandwiches, or as an appetizer because they are soft on the inside and tasteless.",
+        "imageUrl": "/recipes/skillet.webp",
+        "ingredients": [
+            "1 pound ground beef",
+
+"1 large egg, beaten",
+
+"1 tablespoon milk, or as needed",
+
+"1/4 cup panko breadcrumbs",
+
+"1/2 onion",
+
+"1/4 cup grated Parmesan cheese",
+
+"1/2 teaspoon granulated garlic",
+
+"1/2 teaspoon salt",
+
+"1/4 teaspoon freshly ground black pepper",
+
+"3 tablespoons oil",
+
+"2 tablespoons butter"
+        ]
+    }
+    ,  {
+        "name" : "Shrimp and Pepper Stir-Fry",
+        "description": "The star of this straightforward yet vibrant stir-fry with loads of vegetables are shrimp and peppers. Serve with rice noodles or steamed rice.",
+        "imageUrl": "/recipes/shrimp-and-pep.webp",
+        "ingredients": [
+            "For Sauce:",
+
+"1/2 cup chicken broth",
+
+"1/4 cup low-sodium soy sauce",
+
+"2 tablespoons rice wine vinegar",
+
+"1 tablespoon brown sugar",
+
+"1 tablespoon cornstarch",
+
+"1/2 teaspoon garlic powder",
+
+"1/4 teaspoon crushed red pepper",
+
+"For Stir-Fry:",
+
+"2 tablespoons peanut oil, divided",
+
+"1 red bell pepper, cut into thin strips",
+
+"1 yellow bell pepper, cut into thin strips",
+
+"1 red onion, cut into 1/4-inch wedges",
+
+"8 ounces snow peas, trimmed",
+
+"6 green onions, chopped",
+
+"1 1/2 pounds large shrimp, peeled and deveined"
+        ]
+    },
+    {
+        "name" : "Chicken Adobo",
+        "description": "Everyone who tries it loves the traditional chicken adobo dish since it is so easy to prepare. It is wonderful when served over rice and is somewhat saucier than regular adobo.",
+        "imageUrl": "/recipes/adobo.webp",
+        "ingredients": [
+            "2 tablespoons vegetable oil",
+
+"1 (3 pound) chicken, cut into pieces",
+
+"1 large onion, quartered and sliced",
+
+"2 tablespoons minced garlic",
+
+"⅔ cup low sodium soy sauce",
+
+"⅓ cup white vinegar",
+
+"1 tablespoon garlic powder",
+
+"2 teaspoons black pepper",
+
+"1 bay leaf"
+        ]
+    },
+    {
+        "name" : "Ham, Potato and Broccoli Casserole",
+        "description": "This casserole is excellent, simple to prepare, and packed with nutritional value. You have the option to include macaroni pasta or experiment with seasoning the potatoes before baking. Store this dish in the freezer and cook it whenever you don't feel like preparing a meal from scratch. It's also adaptable for using leftover cooked chicken.",
+        "imageUrl": "/recipes/hpbc.webp",
+        "ingredients": [
+          "1 (16 ounce) package frozen French fries",
+
+"1 (16 ounce) package frozen chopped broccoli",
+
+"1 ½ cups cooked, cubed ham",
+
+"1 (10.75 ounce) can condensed cream of mushroom soup",
+
+"1 (10.75 ounce) can milk",
+
+"¼ cup mayonnaise",
+
+"1 cup grated Parmesan cheese"
+        ]
+    },
+    {
+        "name" : "Moussaka",
+        "description": "The moussaka is absolutely delicious! It involves layers of thinly sliced eggplant that are baked within a seasoned ground beef mixture, topped with a rich and creamy white béchamel sauce, making it a quintessential Greek culinary delight.",
+        "imageUrl": "/recipes/moussaka.webp",
+        "ingredients": [
+           " 3 eggplants, peeled and cut lengthwise into 1/2 inch thick slices",
+
+"salt to taste",
+
+"¼ cup olive oil",
+
+"1 tablespoon butter",
+
+"1 pound lean ground beef",
+
+"2 onions, chopped",
+
+"1 clove garlic, minced",
+
+"ground black pepper to taste",
+
+"2 tablespoons dried parsley",
+
+"½ teaspoon fines herbs",
+
+"¼ teaspoon ground cinnamon",
+
+"½ teaspoon ground nutmeg, divided",
+
+"1 (8 ounce) can tomato sauce",
+
+"½ cup red wine",
+
+"1 egg, beaten",
+
+"4 cups milk",
+
+"½ cup butter",
+
+"6 tablespoons all-purpose flour",
+
+"ground white pepper, to taste",
+
+"1 ½ cups freshly grated Parmesan cheese"
+        ]
+    },
+    {
+        "name" : "Slow Cooker Taco Soup",
+        "description": "This is an easy-to-make slow cooker soup that's bursting with the flavors you'd typically find in Tex-Mex chili. You can easily customize it to suit your preferences by adding extra taco seasoning or freshly chopped jalapeno peppers for a spicier kick. Adolescents particularly enjoy this soup when garnished with tortilla chips, shredded Cheddar cheese, and a dollop of sour cream.",
+        "imageUrl": "/recipes/slowtaco.webp",
+        "ingredients": [
+            "1 pound ground beef",
+
+"1 onion, chopped",
+
+"1 (16 ounce) can chili beans, with liquid",
+
+"1 (15 ounce) can kidney beans with liquid",
+
+"1 (15 ounce) can whole kernel corn, with liquid",
+
+"1 (8 ounce) can tomato sauce",
+
+"2 cups water",
+
+"2 (14.5 ounce) cans peeled and diced tomatoes",
+
+"1 (4 ounce) can diced green chile peppers",
+
+"1 (1.25 ounce) package taco seasoning mix"
+        ]
+    },
+    {
+        "name" : "Creamy au Gratin Potatoes",
+        "description": "These au gratin potatoes are a special occasion every time they are made! The creamy cheese sauce and tender potatoes in this classic French dish make a delicious flavor combination. Serve potatoes au gratin with a roast pork loin or beef tenderloin, alongside a green salad.",
+        "imageUrl": "/recipes/gratin.jpg",
+        "ingredients": [
+            "4 medium russet potatoes, thinly sliced",
+
+            "1 medium onion, sliced into rings",
+            
+            "salt and ground black pepper to taste",
+            
+            "3 tablespoons butter",
+            
+            "3 tablespoons all-purpose flour",
+            
+            "½ teaspoon salt",
+            
+            "2 cups milk",
+            
+            "1 ½ cups shredded Cheddar cheese"
+            
+        ]
+    }
+    ,
+    {
+        "name" : "Ahi Tuna Poke",
+        "description": "This simple poke recipe presents a revitalizing Hawaiian salad featuring fresh ahi tuna steak cubes mixed with soy sauce, sesame oil, and green onions to create a dish brimming with umami taste. Adding chopped macadamia nuts, despite their lack of authenticity, contributes a delightful crunch. This recipe serves 4 as a main course or 8 as an appetizer.",
+        "imageUrl": "/recipes/poke.jpg",
+        "ingredients": [
+            "2 pounds fresh tuna steaks, cubed",
+
+"1 cup soy sauce",
+
+"¾ cup chopped green onions",
+
+"2 tablespoons sesame oil",
+
+"2 tablespoons finely chopped macadamia nuts",
+
+"1 tablespoon toasted sesame seeds",
+
+"1 tablespoon crushed red pepper (Optional)"
+        ]
+    }
+
+]

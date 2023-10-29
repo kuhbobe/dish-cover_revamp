@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Define the document type and language -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Link to external resources -->
+
+    <link rel="stylesheet" href="styles.css"> <!-- Link to your CSS file for styling -->
+    <link rel="icon" href="images/favicon.ico?" type="image/x-icon">
+        <!-- Set the title of the page -->
+
+    <title>Dishcover</title>
+</head>
+<body>
+        <!-- Create a dropdown menu for navigation -->
+
+    <div class="dropdown">
+        <button class="dropdown-button">Menu</button>
+        <ul class="dropdown-menu">
+            <li><a href ="liked-recipes.html">Liked Recipes</a></li>
+            <li><a href="/logout">Log Out</a></li>
+        </ul>
+    </div>
+      <!-- Page header with the title and description -->
+
+    <header>
+        <div class="Title">
+        <h1>Dish-cover</h1>
+        <h4>Your source for delicious recipes.</h4>
+    </div>
+    </header>
+        <!-- Create a recipe card with an image, name, description, and action buttons -->
+
+    <div class="recipe-card" id="recipeCard">
+        <img src="recipe-image.jpg" alt="Recipe Image">
+        <h2>Recipe Name</h2>
+        <p>Description of the recipe goes here...</p>
+        <div class="action-buttons">
+            <button class="dislike-button"> <img src="images/cancel.png"> </button>
+            <button class="like-button" > <img src="images/right.png"></button>
+        </div>
+    </div>
+        <!-- Create a recipe card with an image, name, description, and action buttons -->
+
+    <script src="scripts/main.js"></script>
+</body>
+</html>

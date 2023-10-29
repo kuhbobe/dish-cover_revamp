@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <!-- Define the document type -->
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <!-- Include external resources -->
+
+    <link rel="stylesheet" href="styles.css"> <!-- Link to your CSS file for styling -->
+    <link rel="icon" href="favicon.ico?" type="image/x-icon">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&family=Satisfy&display=swap" rel="stylesheet">
+
+    <!-- Page Title -->
+
+    <title>Liked Recipes</title>
+</head>
+<body>
+        <!-- Dropdown Menu -->
+
+    <div class="dropdown">
+        <button class="dropdown-button">Menu</button>
+        <ul class="dropdown-menu">
+            <li><a href="home.html">Home</a></li>
+            <li><a href="#">Item 2</a></li>
+            <li><a href="#">Item 3</a></li>
+        </ul>
+    </div>
+
+    <!-- Header for the Liked Recipes page -->
+    <div class="Title" style="padding-bottom: 10px;">
+    <h1 style="color: #ff4646;">Chosen Delights</h1>
+</div>
+    <!-- Liked Recipe Cards -->
+    <div class="liked-recipe-card">
+        <!-- Sample Liked Recipe Card -->
+            <img src="liked-recipe-image1.jpg" alt="Liked Recipe 1">
+            <h2>Liked Recipe 1</h2>
+            <p>Description of Liked Recipe 1 goes here...</p>
+            <ul class="ingredients-list"></ul>
+            <button class="remove-button" href="">Remove</button> <!-- Add a remove button -->
+       
+    </div>
+    <!-- End of Liked Recipe Cards -->
+
+    <!-- JavaScript for displaying liked recipes -->
+      
+    <script src="scripts/liked-recipes.js"></script>
+</body>
+</html>
