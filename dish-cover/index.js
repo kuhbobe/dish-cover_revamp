@@ -11,7 +11,7 @@ const app = express()
 // Session configuration
 app.use(session({
     secret: 'some secret',
-    cookie: { maxAge: 1000 * 60 * 60 * 24,}, // Set to 'None' for cross-site cookies},
+    cookie: { maxAge: 120000,}, // Set to 'None' for cross-site cookies},
     saveUninitialized: false,
     store
 }));
