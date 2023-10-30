@@ -10,7 +10,7 @@ const e = require("express");
 const app = express()
 // Session configuration
 app.use(session({
-    secret: 'some secret',
+    secret: 'aFitjsuaijfvusiashfuoajsdh',
     cookie: { maxAge: 120000,}, // Set to 'None' for cross-site cookies},
     saveUninitialized: false,
     store
@@ -25,7 +25,7 @@ app.use(express.static('dish-cover/scripts'))
 app.use(bodyParse.urlencoded({ extended: true }))
 
 // MongoDB connection
-mongoose.connect('mongodb+srv://andayakobe:Andaya032003@dish-cover.2nh1ekf.mongodb.net/', {
+mongoose.connect('mongodb+srv://andayakobe:8eqZzMJw2es77bGF@dish-cover.2nh1ekf.mongodb.net/', {
     useNewUrlParser: true,
     useUnifiedTopology: true
 })

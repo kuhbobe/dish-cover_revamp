@@ -38,25 +38,11 @@ function displayLikedRecipes() {
 fetchLikedRecipesData();
 displayLikedRecipes();
 
-// Function to retrieve liked recipes from local storage
-
-const dropdownButton = document.querySelector(".dropdown-button");
-const dropdownMenu = document.querySelector(".dropdown-menu");
-
-function toggleDropdownMenu() {
-    if (dropdownMenu.style.display === "block") {
-        dropdownMenu.style.display = "none";
-    } else {
-        dropdownMenu.style.display = "block";
-    }
-}
-
 dropdownButton.addEventListener("click", toggleDropdownMenu);
 
 // Function to save the liked recipes to local storage
 
 function fetchLikedRecipesData() {
-    console.log("poop");
     fetch('/likedRecipes')
         .then(response => response.json())
         .then(data => {
@@ -82,7 +68,6 @@ function removeRecipe(index) {
     }
 }
 
-// Function to send a request to remove a liked recipe from the server
 
 function removeLikedRecipe(recipeId) {
     // You can use JavaScript fetch or another method to make the request
@@ -93,7 +78,7 @@ function removeLikedRecipe(recipeId) {
     .then(response => {
         if (response.status === 200) {
             // Update the UI to indicate that the recipe has been liked
-            console.log('Removing liked recipe'); // Disable the button, for example
+            console.log('Removing liked recipe'); 
         } else {
             console.error('Error saving liked recipe');
         }
