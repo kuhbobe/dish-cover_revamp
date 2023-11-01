@@ -27,9 +27,9 @@ mongoose.connect('INSERT-URL-HERE', {
 ```
 5. Creates 2 collections called "users" and "recipes"
 6. Import the recipes.json from database imports into the recipes collection
-7. Run the website locally by running
+7. Run the website locally by running this in the console
 ```
 npm start
 ```
-in the console
   - Make sure to being the 'dish-cover' directory
+8. Connect to localhost:3000 in the web browser to view. 
